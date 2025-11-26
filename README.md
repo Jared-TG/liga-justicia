@@ -3,4 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Nuevos cambios 
-Necesarios para usar el programa.
+## Necesarios para usar el programa.
+## Necesarios para la instalacion de las dependencias.
